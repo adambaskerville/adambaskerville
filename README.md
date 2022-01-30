@@ -1,5 +1,7 @@
 ## Hi there, I'm Dr Adam Baskerville 👋 I'm a Quantum Physicist
 
+![Twitter Follow](https://img.shields.io/twitter/follow/AdamBask?style=for-the-badge)
+
 - 🔭 I’m currently working on understanding how atoms and molecules work using quantum theory
 - 🌱 I’m currently learning how AI can be used in drug design
 - ⚡ Fun fact: I love strongman/powerlifting training, astrophotography and oil painting
