@@ -7,17 +7,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="AdamBask | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AdamBask | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
-
-[website]: https://adambaskerville.github.io/
-[course]: https://adambaskerville.github.io/tabs/progchem/
-[twitter]: https://twitter.com/AdamBask
-[linkedin]: https://www.linkedin.com/in/adam-baskerville-6710811b2/
 
 ### Languages and Tools:
 
@@ -59,3 +53,8 @@
   <img align="left" alt="Adam Baskerville's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adambaskerville&show_icons=true&hide_border=true" />
 
 </details>
+
+[website]: https://adambaskerville.github.io/
+[course]: https://adambaskerville.github.io/tabs/progchem/
+[twitter]: https://twitter.com/AdamBask
+[linkedin]: https://www.linkedin.com/in/adam-baskerville-6710811b2/
