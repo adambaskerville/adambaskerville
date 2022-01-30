@@ -48,13 +48,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Adam Baskerville's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adambaskerville&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://adambaskerville.github.io/
 [course]: https://adambaskerville.github.io/tabs/progchem/
 [twitter]: https://twitter.com/AdamBask
