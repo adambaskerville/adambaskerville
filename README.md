@@ -1,5 +1,4 @@
-### Hi there, I'm Dr Adam Baskerville 👋
-## I'm a Quantum Physicist
+## Hi there, I'm Dr Adam Baskerville 👋 I'm a Quantum Physicist
 
 - 🔭 I’m currently working on understanding how atoms and molecules work using quantum theory
 - 🌱 I’m currently learning how AI can be used in drug design
