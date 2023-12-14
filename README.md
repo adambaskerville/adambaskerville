@@ -1,5 +1,3 @@
----
-
 ### 📕 Blog Posts
 
 - [Hartree Fock Theory in 100 Lines](https://adambaskerville.github.io/posts/HartreeFockGuide/)
@@ -8,8 +6,6 @@
 - [Optimising Cumulative Sums in Python](https://adambaskerville.github.io/posts/CumulativeSum/)
 
 ➡️ [more blog posts...](https://adambaskerville.github.io/tabs/archives/)
-
----
 
 [website]: https://adambaskerville.github.io/
 [course]: https://adambaskerville.github.io/tabs/progchem/
